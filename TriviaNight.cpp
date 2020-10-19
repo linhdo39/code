@@ -1,10 +1,3 @@
-/********************************************************
-*PROGRAM ONE: CSC 1300 - 003							*
-*AUTHOR: My Linh Do            							*
-*DATE: 09/02/2019           							*
-*DESCRIPTION: Trivia Night Assignment                   *
-*********************************************************/	
-
 #include <iostream>
 #include <string>
 #include <iomanip>
