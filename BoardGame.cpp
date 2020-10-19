@@ -1,10 +1,3 @@
-/********************************************************
-*PROGRAM THREE: CSC 1300 - 003							*
-*AUTHOR: My Linh Do            							*
-*DATE: 10/19/2019           							*
-*DESCRIPTION: Board Game			                    *
-*********************************************************/	
-
 #include <iostream>
 #include <string>
 #include <cstdlib>
