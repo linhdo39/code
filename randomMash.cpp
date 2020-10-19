@@ -1,10 +1,3 @@
-/********************************************************
-*PROGRAM ONE: CSC 1300 - 003							*
-*AUTHOR: My Linh Do            							*
-*DATE: 09/23/2019           							*
-*DESCRIPTION: MASH					                    *
-*********************************************************/	
-
 #include <iostream>
 #include <string>
 #include <cstdlib>
