@@ -1,3 +1,4 @@
+//this program goes along with Bad.txt and Good.txt file
 #include <iostream>
 #include <string>
 #include <cstdlib>
